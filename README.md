@@ -1,6 +1,6 @@
 # gjhandler
 
-gjhandler is a simple log handler which generates JSON files for Cloud Logging and google-fluentd.
+gjhandler is a simple log handler which generates new line delimited JSON for Cloud Logging and google-fluentd.
 
 ## Example
 
