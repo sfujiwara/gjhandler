@@ -1,6 +1,6 @@
 # gjhandler
 
-gjhandler is a simple log handler which generates new line delimited JSON for Cloud Logging and google-fluentd.
+gjhandler is a simple log handler which generates new line delimited JSON for Cloud Logging and [google-fluentd](https://cloud.google.com/logging/docs/agent/).
 
 ## Example
 
@@ -24,6 +24,7 @@ logger.error("this is error")
 ```
 
 ## Setting for google-fluentd
+
 
 ```xml
 <source>
