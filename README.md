@@ -2,6 +2,13 @@
 
 gjhandler is a simple log handler which generates new line delimited JSON for Cloud Logging and [google-fluentd](https://cloud.google.com/logging/docs/agent/).
 
+## Installation
+
+```
+pip install git+https://github.com/sfujiwara/gjhandler.git
+```
+
+
 ## Example
 
 ```python
